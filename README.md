@@ -1,6 +1,7 @@
 //sticky-headers-recyclerview
 compile 'com.timehop.stickyheadersrecyclerview:library:[latest.version.number]@aar'
 
+
 //mvp
 
 ext {
